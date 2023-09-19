@@ -1,4 +1,8 @@
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-19 at 12 09 55](https://github.com/marcuzgabriel/arktype-react-native-issue/assets/42548700/ef43b292-b567-4efd-8544-cb1d950402d8)
+This is a minimum replica of a big project reproducing ArkType runtime error
+
+<img width="220px" src="https://github.com/marcuzgabriel/arktype-react-native-issue/assets/42548700/ef43b292-b567-4efd-8544-cb1d950402d8" />
+
+</br></br>
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
